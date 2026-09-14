@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Tempo
+Cooment=Focus, Tasks & Time Tracker
+Exec=Tempo
+Icon=io.github.Srourrzan.Tempo
+Terminal=false
+Type=Application
+Categories=Utility;Office;Development;
+StartupNotify=true
