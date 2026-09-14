@@ -1,0 +1,7 @@
+---
+# Base Style
+BasedOnStyle: GNU
+
+# GTK/GNOME Specific overrides
+IndentWidth: 2
+UseTab: Never
