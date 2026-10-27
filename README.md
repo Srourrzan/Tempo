@@ -2,7 +2,7 @@
 
 A lightweight, native Linux desktop application designed to help you organize your daily work rhythm, log focused time intervals, and capture quick thoughts before switching tasks.
 
-![Tempo Main Window](assets/tempo_main_window.png)
+![Tempo Main Window](assets/screenshots/tempo_main_window.png)
 
 Built in C using **GTK4**, **Libadwaita**, and **SQLite3**, adhering strictly to modern **freedesktop.org** desktop standards.
 
