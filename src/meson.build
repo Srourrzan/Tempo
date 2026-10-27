@@ -1,4 +1,4 @@
-tempo_source = [
+tempo_sources = [
   'main.c'
 ]
 
@@ -8,7 +8,7 @@ tempo_deps =  [
   sqlite_dep,
 ]
 
-executable('temp',
+executable('tempo',
            tempo_sources,
            dependencies: tempo_deps,
            install: true,
