@@ -1,5 +1,6 @@
 tempo_sources = [
-  'main.c'
+  'main.c',
+  'timer/tempo-timer-view.c'
 ]
 
 tempo_deps =  [
